@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="519f7add-65a7-4c52-8be3-4497c0fcfacc" name="Changes" comment="first commit">
+    <list default="true" id="519f7add-65a7-4c52-8be3-4497c0fcfacc" name="Changes" comment="Python Higher Order Functions &amp; Event Listeners">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,12 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1736885488222</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python Higher Order Functions &amp; Event Listeners">
+      <option name="closed" value="true" />
+      <created>1736886095646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736886095646</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Python Higher Order Functions &amp; Event Listeners" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Higher Order Functions &amp; Event Listeners" />
   </component>
 </project>
