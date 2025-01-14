@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="519f7add-65a7-4c52-8be3-4497c0fcfacc" name="Changes" comment=" Challenge: Make an Etch-A-Sketch App">
-      <change afterPath="$PROJECT_DIR$/event_listeners.py" afterDir="false" />
+    <list default="true" id="519f7add-65a7-4c52-8be3-4497c0fcfacc" name="Changes" comment="Understanding the Turtle Coordinate System">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -101,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736887080746</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Understanding the Turtle Coordinate System">
+      <option name="closed" value="true" />
+      <created>1736894299057</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736894299058</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -109,6 +116,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="Python Higher Order Functions &amp; Event Listeners" />
     <MESSAGE value=" Challenge: Make an Etch-A-Sketch App" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Challenge: Make an Etch-A-Sketch App" />
+    <MESSAGE value="Understanding the Turtle Coordinate System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Understanding the Turtle Coordinate System" />
   </component>
 </project>
